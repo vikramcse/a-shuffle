@@ -1,0 +1,24 @@
+{
+  "name": "a-shuffle",
+  "version": "1.0.0",
+  "description": "Returns a shuffled copy of the list, using a version of the Fisher-Yates shuffle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/a-shuffle.git"
+  },
+  "keywords": ["array", "shuffle", "random", "different"],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/a-shuffle/issues"
+  },
+  "homepage": "https://github.com/vikramcse/a-shuffle#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
