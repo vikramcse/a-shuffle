@@ -1,6 +1,6 @@
 {
   "name": "a-shuffle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a shuffled copy of the list, using a version of the Fisher-Yates shuffle",
   "main": "index.js",
   "scripts": {
