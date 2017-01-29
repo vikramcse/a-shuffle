@@ -6,6 +6,7 @@ module.exports = function (arr) {
   }
 
   var currentIndex = arr.length;
+  var copy = arr.slice();
 
   while (currentIndex) {
     var randomIndex = Math.floor(Math.random() * currentIndex--);
